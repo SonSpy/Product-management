@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@nestjs/jwt": "^11.0.0",
+    "@nestjs/mongoose": "^11.0.3",
+    "bcryptjs": "^3.0.2",
+    "mongoose": "^8.13.2",
+    "passport-jwt": "^4.0.1"
+  },
+  "name": "product-management",
+  "version": "1.0.0",
+  "description": "A fullstack product management application with user authentication, product CRUD, filtering, and protected routes. Built using **React.js (frontend)** and **NestJS + MongoDB (backend)**.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
